@@ -23,3 +23,8 @@ They all join together in:
 - Guinea pig (Very early release) - (https://github.com/mytja/MyDrone-1/tree/guinea)
 - Beta - (https://github.com/mytja/MyDrone-1/tree/beta) and 
 - master (Stable) - (https://github.com/mytja/MyDrone-1/tree/master)
+
+# Transmitter
+https://easyeda.com/mamnju21/mydrone-1-transmitter
+
+PCBs and schematics are in developement stage. Use them at your own risk...
