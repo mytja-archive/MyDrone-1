@@ -17,6 +17,8 @@ Transmitter code is here: https://github.com/mytja/MyDrone-1/tree/transmitter
 
 Here is drone code: https://github.com/mytja/MyDrone-1/tree/drone
 
+(upper branches won't be supported after a short amount of while...)
+
 They all join together in:
 - Guinea pig (Very early release) - (https://github.com/mytja/MyDrone-1/tree/guinea)
 - Beta - (https://github.com/mytja/MyDrone-1/tree/beta) and 
